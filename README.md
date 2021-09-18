@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Aleksandar
 
-You have a question/comment on something I've done?
+Familiarize yourself with my work thus far > https://blog.nesovic.dev/
+
+You have a question or a comment on something I've done?
 Then let's socialize! [Contact me on telegram](https://t.me/kaynetik) 👋
 
 ----
