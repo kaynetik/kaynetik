@@ -12,6 +12,7 @@ In the mean time checkout out my project for [Automated Documentation - go-oas/d
 💣At the moment I'm enjoying **Go** for everything and exploring *Rust/Zig* for production. 🎉
 
 _Update 20.07.2021_ - sadly the current OSS commits have been halted due to the massive commercial product load. Might get back to ongoing projects hopefully by end of November. 🤞
+_Update 19.10.2021_ - at this moment **I'm not using GH** as a VCS for work related activities.
 
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynetik&hide=html)--->
 ![kaynetik's github stats](https://github-readme-stats.vercel.app/api?username=kaynetik&show_icons=true&count_private=true&line_height=40)
