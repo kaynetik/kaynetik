@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Aleksandar
 
-Familiarize yourself with my work thus far > https://blog.nesovic.dev/ . Fair warning, blog will soon get a restyling, and possiblly a spring cleansing of sorts.
+Familiarize yourself with my work thus far > https://essays.nesovic.dev/ . Fair warning, blog will soon get a restyling, and possiblly a spring cleansing of sorts.
 
 You have a question or a comment on something I've done?
 Then let's socialize! [Contact me on telegram](https://t.me/kaynetik) 👋
