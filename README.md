@@ -12,7 +12,7 @@ If you are looking for an Engineering Manager, feel free to reach out @ aleksand
 💣At the moment I'm enjoying **Go** for everything and exploring *Rust/Zig* for production. 🎉
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynetik&hide=html&theme=nord)
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynetik&hide=html&theme=nord) --->
 ![kaynetik's github stats](https://github-readme-stats.vercel.app/api?username=kaynetik&show_icons=true&count_private=true&line_height=40&theme=nord)
 
 <!---
