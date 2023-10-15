@@ -13,7 +13,7 @@ If you are looking for an Engineering Manager, feel free to reach out @ aleksand
 
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynetik&hide=html&theme=nord) --->
-![kaynetik's github stats](https://github-readme-stats.vercel.app/api?username=kaynetik&show_icons=true&count_private=true&line_height=40&theme=nord)
+<!--- ![kaynetik's github stats](https://github-readme-stats.vercel.app/api?username=kaynetik&show_icons=true&count_private=true&line_height=40&theme=nord) --->
 
 <!---
 kaynetik/kaynetik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
