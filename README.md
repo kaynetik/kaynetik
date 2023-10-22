@@ -11,6 +11,8 @@ If you are looking for an Engineering Manager, feel free to reach out @ aleksand
 
 💣At the moment I'm enjoying **Go** for everything and exploring *Rust/Zig* for production. 🎉
 
+[GPG Signature](https://keys.openpgp.org/vks/v1/by-fingerprint/A5DF544A5946856AFDC4D3BD463F12EC49D7995C) I use for my commits.
+
 ----
 
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynetik&hide=html&theme=nord) --->
