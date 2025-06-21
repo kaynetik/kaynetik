@@ -14,8 +14,6 @@
 
 ## 🚀 Currently Working On
 
-- **DevSecOps & Protocol Engineering** at a crypto company
-- **AI-Native Systems** with real-time Earth simulation at [peer.inc](https://peer.inc)
 - **Open Source IaC** contributions
 
 ## 💻 Tech Stack
