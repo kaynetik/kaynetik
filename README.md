@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-work--services-blue?style=for-the-badge)](https://nesovic.dev)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-nesovic.dev-blue?style=for-the-badge)](https://nesovic.dev)
 [![Essays](https://img.shields.io/badge/📝_Essays-essays.nesovic.dev-green?style=for-the-badge)](https://essays.nesovic.dev)
 [![Email](https://img.shields.io/badge/📧_Contact-aleksandar%40nesovic.dev-red?style=for-the-badge)](mailto:aleksandar@nesovic.dev)
 
