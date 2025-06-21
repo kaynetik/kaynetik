@@ -1,24 +1,95 @@
-### 👋 Hi, I'm Aleksandar
+# Hi there! I'm Aleksandar 👋
 
-Familiarize yourself with my work thus far > https://essays.nesovic.dev/ & https://linkedin.com/in/kaynetik
+**Tech Lead** building high-performance systems and leading technical teams.
 
-Do you have a question or a comment on something I've done?
-Then let's socialize! [Contact me on telegram](https://t.me/kaynetik) 👋
+<div align="center">
 
-If you are looking for an Engineering Manager, feel free to reach out @ aleksandar@nesovic.dev
+[![Website](https://img.shields.io/badge/🌐_Portfolio-work--services-blue?style=for-the-badge)](https://nesovic.dev)
+[![Essays](https://img.shields.io/badge/📝_Essays-essays.nesovic.dev-green?style=for-the-badge)](https://essays.nesovic.dev)
+[![Email](https://img.shields.io/badge/📧_Contact-aleksandar%40nesovic.dev-red?style=for-the-badge)](mailto:aleksandar@nesovic.dev)
 
-----
+</div>
 
-💣At the moment I'm enjoying **Go** for everything and exploring *Rust/Zig* for production. 🎉
+---
 
-[GPG Signature](https://keys.openpgp.org/vks/v1/by-fingerprint/A5DF544A5946856AFDC4D3BD463F12EC49D7995C) I use for my commits.
+## 🚀 Currently Working On
 
-----
+- **DevSecOps & Protocol Engineering** at a crypto company
+- **AI-Native Systems** with real-time Earth simulation at [peer.inc](https://peer.inc)
+- **Open Source IaC** contributions
 
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynetik&hide=html&theme=nord) --->
-<!--- ![kaynetik's github stats](https://gh-readme-stats-kaynetik.vercel.app/api?username=kaynetik&show_icons=true&count_private=true&line_height=40&theme=nord&hide=stars,contribs) --->
+## 💻 Tech Stack
 
-<!---
-kaynetik/kaynetik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages:**
+```
+Go  Rust  Zig  Python  TypeScript  C
+```
+
+**Infrastructure & DevOps:**
+```
+Kubernetes  Terraform  Bazel  ArgoCD  OPA  OTEL
+```
+
+**Cloud & Platforms:**
+```
+GCP  AWS  Azure  Multi-Cloud  On-Premises
+```
+
+**Specializations:**
+```
+🔐 DevSecOps Leadership    🚀 High-Performance Computing
+🤖 AI Architecture        🌐 Protocol Engineering  
+📊 Observability (OTEL)   🔧 Build Systems (Bazel)
+```
+
+---
+
+## 🛠️ What I Build
+
+**🎯 Mission-Critical Systems**
+- High-throughput microservices in Go handling millions of requests
+- Memory-safe blockchain infrastructure in Rust
+- Cross-platform systems in Zig replacing legacy C/C++
+
+**☁️ Cloud-Native Infrastructure**
+- Multi-cluster Kubernetes across regions with GitOps
+- Policy-as-code with OPA/Gatekeeper for compliance
+- Full observability with Grafana stack (Mimir, Alloy, Tempo, Prometheus)
+
+**🤖 AI & Protocol Engineering**
+- LLM integration with enterprise compliance frameworks
+- Oracle networks and interoperability protocols
+- Chain abstraction systems connecting 15+ blockchains
+
+---
+
+## 🎯 Core Philosophy
+
+> **"Technical excellence through hands-on leadership"**
+
+I believe in leading by example—staying hands-on with code while building the processes and culture that enable teams to deliver exceptional results. Every system should be built to last, scale gracefully, and maintain security from the ground up.
+
+---
+
+## 🤝 Let's Connect
+
+**Looking for technical leadership, architecture review, or high-performance system development?**
+
+<div align="center">
+
+| 🌐 **Portfolio** | 📝 **Essays** | 📧 **Email** | 💼 **LinkedIn** |
+|:---:|:---:|:---:|:---:|
+| [nesovic.dev](https://nesovic.dev) | [essays.nesovic.dev](https://essays.nesovic.dev) | [aleksandar@nesovic.dev](mailto:aleksandar@nesovic.dev) | [/in/kaynetik](https://linkedin.com/in/kaynetik) |
+
+</div>
+
+---
+
+<div align="center">
+
+**⚡ Available for fractional CTO roles, architecture consulting, and high-impact technical projects**
+
+_EDIT: Tracking since 25th June, 2025_
+![Profile Views](https://komarev.com/ghpvc/?username=kaynetik&color=F85D7F&style=flat&label=Profile+Views)
+
+</div> 
