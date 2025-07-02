@@ -87,7 +87,4 @@ I believe in leading by example—staying hands-on with code while building the 
 
 **⚡ Available for fractional CTO roles, architecture consulting, and high-impact technical projects**
 
-_EDIT: Tracking since 21st June, 2025_
-![Profile Views](https://komarev.com/ghpvc/?username=kaynetik&color=F85D7F&style=flat&label=Profile+Views)
-
 </div> 
