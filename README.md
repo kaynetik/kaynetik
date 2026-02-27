@@ -14,7 +14,8 @@ Tech Lead focused on high-performance systems and infrastructure.
 
 **Cloud:** GCP, AWS
 
-**Migrate away from vendor lockin:** I've also had the oportunity to migrate from GPC|AWS to a "self-hosted" HA setup
+**Migrate away from vendor lockin:** I've also had the oportunity to migrate from GPC|AWS to a self-hosted HA setup
+
 ---
 
 ## Let's Connect
