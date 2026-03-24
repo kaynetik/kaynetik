@@ -1,27 +1,26 @@
-# Aleksandar Nesovic
+<h3 align="center">
+ <br/>
+ <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+ Aleksandar Nesovic
+ <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
+
+<p align="center">
+ <a href="https://nesovic.dev"><img src="https://img.shields.io/static/v1?label=Portfolio&message=nesovic.dev&colorA=363a4f&color=cad3f5&logoColor=d8dee9&style=for-the-badge" alt="Portfolio"></a>
+ <a href="https://essays.nesovic.dev"><img src="https://img.shields.io/static/v1?label=Essays&message=essays.nesovic.dev&colorA=363a4f&color=a6e3a1&logoColor=d8dee9&style=for-the-badge" alt="Essays"></a>
+ <a href="mailto:aleksandar@nesovic.dev"><img src="https://img.shields.io/static/v1?label=Email&message=aleksandar%40nesovic.dev&colorA=363a4f&color=f5a97f&logoColor=d8dee9&style=for-the-badge" alt="Email"></a>
+ <a href="https://linkedin.com/in/kaynetik"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=%2Fin%2Fkaynetik&colorA=363a4f&color=89b4fa&logo=linkedin&logoColor=d8dee9&style=for-the-badge" alt="LinkedIn"></a>
+</p>
+
+---
 
 Tech Lead focused on high-performance systems and infrastructure.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nesovic.dev-blue?style=flat-square)](https://nesovic.dev)
-[![Essays](https://img.shields.io/badge/Essays-essays.nesovic.dev-green?style=flat-square)](https://essays.nesovic.dev)
-[![Email](https://img.shields.io/badge/Email-aleksandar%40nesovic.dev-red?style=flat-square)](mailto:aleksandar@nesovic.dev)
+**Languages:** Rust, Zig & Go -- with C, Python, and TypeScript where needed.
 
----
+**Infrastructure:** Kubernetes, Terraform / OpenTofu, Bazel, ArgoCD, OPA, OpenTelemetry
 
-**Languages:** Rust, Zig & Go (if needed C, Py & TS as well)
+**Cloud:** GCP, AWS -- including migrations away from vendor lock-in to self-hosted HA setups
 
-**Infrastructure:** Kubernetes, Terraform|OpenTofu, Bazel, ArgoCD, OPA, OpenTelemetry
-
-**Cloud:** GCP, AWS
-
-**Migrate away from vendor lockin:** I've also had the oportunity to migrate from GPC|AWS to a self-hosted HA setup
-
----
-
-## Let's Connect
-
-| Portfolio | Essays | Email | LinkedIn |
-|:---:|:---:|:---:|:---:|
-| [nesovic.dev](https://nesovic.dev) | [essays.nesovic.dev](https://essays.nesovic.dev) | [aleksandar@nesovic.dev](mailto:aleksandar@nesovic.dev) | [/in/kaynetik](https://linkedin.com/in/kaynetik) |
-
-Might be available for fractional CTO, architecture consulting, and high-impact technical projects (though I'm currently really happy at [sedaprotocol](https://github.com/sedaprotocol)).
+Currently really happy at [sedaprotocol](https://github.com/sedaprotocol).
+Might be available for fractional CTO work, architecture consulting and high-impact off-cloud projects.
