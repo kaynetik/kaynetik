@@ -30,5 +30,6 @@
 <br/>
 
 <p align="left">
- <sub>Currently happy at <a href="https://github.com/sedaprotocol">sedaprotocol</a>. Available for fractional CTO work, architecture consulting, and high-impact technical projects.</sub>
+ Currently really happy at <a href="https://github.com/sedaprotocol">sedaprotocol</a>.<br/>
+ <sub> Might be available for fractional CTO work, architecture consulting, and high-impact off-cloud projects.</sub>
 </p>
